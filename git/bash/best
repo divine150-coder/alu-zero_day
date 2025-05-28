@@ -1,1 +1,2 @@
-echo "Thi School is so cool!"
+#!/bin/bash
+echo "Updated script!"
